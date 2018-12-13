@@ -17,3 +17,9 @@ Python project for getting functions executed in sync with tracktime of VLC Play
 3. Configure the Lua HTTP putting a password and in Source directory C:\Program Files\VideoLAN\VLC\lua\http and in Lua Telnet change Port to 8080.
 4. Try to access the Web interface using on your browser http://localhost:8080/requests/status.xml and leave user in blank and put the password that you used in the configuration
 
+## Funcionality
+The code will extrack the time from whatever is playing on VLC Player and with that information was created a function that would identify the stages of a song.
+
+##Example
+Song: The Chainsmokers - This Feelings (Afrojack & Disto Remix - Official Audio)
+Link: www.youtube.com/watch?v=pB_45kwdd6o
