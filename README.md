@@ -20,11 +20,11 @@ Python project for getting functions executed in sync with tracktime of VLC Play
 ## Funcionality
 The code will extrack the time from whatever is playing on VLC Player and with that information a function that will identify the stages of the song. The reprouction can be from web or local, the only things is required is that both the code and the VLC Player be running at the same time.
 
-##Example
+## Example
 Song: The Chainsmokers - This Feelings (Afrojack & Disto Remix - Official Audio)
 Link: www.youtube.com/watch?v=pB_45kwdd6o
 
-##Future Improvements
+## Future Improvements
 - [ ] Make code more efficient using the VLC state information
 - [ ] New features for the code and implementations with VLC Player
 - [ ] Make code more dynamic to other types of content
