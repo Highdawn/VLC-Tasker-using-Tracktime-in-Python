@@ -7,11 +7,11 @@
 
 
 ## Instructions
-##Install latest version of Python and VLC Player
+### Install latest version of Python and VLC Player
 1. Python - www.python.org
 2. VLC Player - www.videolan.org
 
-## Enabling VLC Web Interface
+### Enabling VLC Web Interface
 1. Enable Web interface going on Tools -> Preferences -> Show settings -> All -> Interface -> Main interfaces -> Check box "Web"
 2. Expand Main interfaces -> Lua
 3. Configure the Lua HTTP putting a password and in Source directory C:\Program Files\VideoLAN\VLC\lua\http and in Lua Telnet change Port to 8080.
