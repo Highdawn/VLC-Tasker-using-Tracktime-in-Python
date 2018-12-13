@@ -1,5 +1,5 @@
 # VLC-Tasker-using-Tracktime-in-Python
-## Python project for getting functions executed in sync with tracktime of VLC Player
+Python project for getting functions executed in sync with tracktime of VLC Player
 
 ## Requirements:
 - Python 3.7.1 (Most Recent version in 13 of December 2018)
